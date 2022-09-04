@@ -1,3 +1,1 @@
-This is a test
-
-This is an additional Test
+This is a test to refresh the README file
